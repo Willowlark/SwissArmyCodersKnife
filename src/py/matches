@@ -1,0 +1,8 @@
+Namespace(file=None, linenumbers=False, pattern='c\\w+', substitute=None, text=['i like dogs'])
+-------------------------
+1: i like cats
+-------------------------
+i like cats
+-------------------------
+likecats
+-------------------------

@@ -1,0 +1,17 @@
+WARNING:root:Key dialect has an empty value.
+WARNING:root:Key driver has an empty value.
+WARNING:root:Key protocol has an empty value.
+WARNING:root:Key security has an empty value.
+WARNING:root:Key sslcertificate has an empty value.
+WARNING:root:Key sslclientkeystore has an empty value.
+WARNING:root:Key sslclientstash has an empty value.
+WARNING:root:Key dialect has an empty value.
+WARNING:root:Key driver has an empty value.
+WARNING:root:Key protocol has an empty value.
+WARNING:root:Key security has an empty value.
+WARNING:root:Key sslcertificate has an empty value.
+WARNING:root:Key sslclientkeystore has an empty value.
+WARNING:root:Key sslclientstash has an empty value.
+WARNING:root:Key dialect has an empty value.
+WARNING:root:Optional keys {'protocol', 'sslcertificate', 'sslclientkeystore', 'sslclientstash', 'driver', 'security'} not found.
+WARNING:root:Key dialect has an empty value.

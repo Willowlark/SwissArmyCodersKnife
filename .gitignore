@@ -1,0 +1,11 @@
+*.pyc
+.eggs/
+py_base.egg-info/
+dist/
+
+.vscode
+.DS_Store
+.pyc
+instance/
+py_base/instance/
+**/__pycache__

@@ -1,0 +1,12 @@
+{
+    "configparserlogpath": "../logs",
+    "foo":"bar",
+    "bar": 
+    {
+        "foo": "baz",
+        "baz":
+        {
+            "foo": "foo"
+        }
+    }  
+}
